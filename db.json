@@ -1,0 +1,22 @@
+{
+   "users":[
+      {
+         "id":1,
+         "name":"Mikołaj",
+         "age":21,
+         "hobby":"Football"
+      },
+      {
+         "id":2,
+         "name":"Maksymilian",
+         "age":25,
+         "hobby":"Basketball"
+      },
+      {
+         "id":3,
+         "name":"Nadia",
+         "age":23,
+         "hobby":"Reading books"
+      }
+   ]
+}
