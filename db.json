@@ -1,22 +1,65 @@
 {
-   "users":[
+   "items":[
       {
-         "id":1,
-         "name":"Mikołaj",
-         "age":21,
-         "hobby":"Football"
+         "name":"Laptop",
+         "barcode":"45678452414",
+         "WMS":"YVQ/202105/0001",
+         "ERP":"ZS-25/05/21/PH05"
+         
       },
       {
-         "id":2,
-         "name":"Maksymilian",
-         "age":25,
-         "hobby":"Basketball"
+         "name":"Pióro",
+         "barcode":"50183491041",
+         "WMS":"YVQ/202105/0001",
+         "ERP":"ZS-25/05/21/PH05"
       },
       {
-         "id":3,
-         "name":"Nadia",
-         "age":23,
-         "hobby":"Reading books"
+         "name":"Monitor",
+         "barcode":"93243204184",
+         "WMS":"YVQ/202105/0001",
+         "ERP":"ZS-25/05/21/PH05"
+      },
+      {
+         "name":"Telefon",
+         "barcode":"82048192412",
+         "WMS":"YVQ/202105/0001",
+         "ERP":"ZS-25/05/21/PH05"
+      },
+      {
+         "name":"Słuchawki",
+         "barcode":"02948192491",
+         "WMS":"YVQ/202105/0001",
+         "ERP":"ZS-25/05/21/PH05"
+      },
+      {
+         "name":"Tablet",
+         "barcode":"39294013510",
+         "WMS":"YVQ/202105/0001",
+         "ERP":"ZS-25/05/21/PH05"
+      },
+      {
+         "name":"Drukarka",
+         "barcode":"10482052561",
+         "WMS":"YVQ/202105/0001",
+         "ERP":"ZS-25/05/21/PH05"
+      },
+      {
+         "name":"Zegarek",
+         "barcode":"20937493827",
+         "WMS":"YVQ/202105/0001",
+         "ERP":"ZS-25/05/21/PH05"
+      },
+      {
+         "name":"Naszyjnik",
+         "barcode":"60395827593",
+         "WMS":"YVQ/202105/0001",
+         "ERP":"ZS-25/05/21/PH05"
+      },
+      {
+         "name":"Pierścionek",
+         "barcode":"50476284825",
+         "WMS":"YVQ/202105/0001",
+         "ERP":"ZS-25/05/21/PH05"
       }
    ]
 }
