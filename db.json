@@ -24,27 +24,27 @@
          "image":"https://www.mobimaniak.pl/wp-content/uploads/mobimaniak/2019/10/razer-blad-pro-17-678_678x452.jpg"
       },
       {
-         "name":"Pióro",
+         "name":"Pióro wieczne Parker - Duofold Limited Edition",
          "barcode":"50183491041",
          "WMS":"YVQ/202105/0001",
          "ERP":"ZS-25/05/21/PH05",
          "contractor":{
-            "name":"Kontrahent Laptop",
+            "name":"Kontrahent Pióro",
             "address":{
-               "street":"Głęboka 32",
-               "city":"Lublin",
-               "state":"Lubelskie",
+               "street":"Mickiewicza 12",
+               "city":"Kraków",
+               "state":"Małopolskie",
                "country":"Polska",
-               "postalCode":"20-400"
+               "postalCode":"30-670"
             }
          },
-         "amount":25,
+         "amount":10,
          "delivery":"Brak",
          "scanned":0,
-         "expirationDate":"21.05.2021",
-         "unit":"kg",
-         "measure":2,
-         "image":""
+         "expirationDate":"Brak",
+         "unit":"g",
+         "measure":27,
+         "image":"https://e.allegroimg.com/original/03a7ad/28a01bd2472f9fa913ac2ebb4f2e/PARKER-pioro-wieczne-DUOFOLD-LIMITED-EDITION"
       },
       {
          "name":"Monitor",
@@ -52,22 +52,22 @@
          "WMS":"YVQ/202105/0001",
          "ERP":"ZS-25/05/21/PH05",
          "contractor":{
-            "name":"Kontrahent Laptop",
+            "name":"Kontrahent Monitor",
             "address":{
-               "street":"Głęboka 32",
+               "street":"Długa 4",
                "city":"Lublin",
                "state":"Lubelskie",
                "country":"Polska",
-               "postalCode":"20-400"
+               "postalCode":"20-370"
             }
          },
          "amount":25,
          "delivery":"Brak",
          "scanned":0,
-         "expirationDate":"21.05.2021",
+         "expirationDate":"Brak",
          "unit":"kg",
-         "measure":2,
-         "image":""
+         "measure":5.6,
+         "image":"https://www.proshop.pl/Images/915x900/2930705_92eb63b16e3f.jpg"
       },
       {
          "name":"Telefon",
