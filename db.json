@@ -93,50 +93,50 @@
          "image":"https://www.mediaexpert.pl/media/cache/gallery/product/3/495/664/829/bvbeez73/images/26/2615697/Smartfon-HUAWEI-Mate-40-Pro-Czarny-front-tyl.jpg"
       },
       {
-         "name":"Słuchawki",
+         "name":"Słuchawki SONY",
          "barcode":"02948192491",
          "WMS":"YVQ/202105/0001",
          "ERP":"ZS-25/05/21/PH05",
          "contractor":{
-            "name":"Kontrahent Laptop",
+            "name":"Kontrahent Słuchawki",
             "address":{
-               "street":"Głęboka 32",
-               "city":"Lublin",
-               "state":"Lubelskie",
+               "street":"Pogodna 74",
+               "city":"Poznań",
+               "state":"Wielkopolskie",
                "country":"Polska",
-               "postalCode":"20-400"
+               "postalCode":"90-340"
             }
          },
-         "amount":25,
+         "amount":200,
          "delivery":"Brak",
          "scanned":0,
-         "expirationDate":"21.05.2021",
-         "unit":"kg",
-         "measure":2,
-         "image":""
+         "expirationDate":"Brak",
+         "unit":"g",
+         "measure":254,
+         "image":"https://stat-m4.ms-online.pl/media/cache/gallery/rc/dg332tgz/images/21/21238430/sony-wh-1000xm4-czarny-1.jpg"
       },
       {
-         "name":"Tablet",
+         "name":"Tablet SAMSUNG T976 Galaxy Tab S7",
          "barcode":"39294013510",
          "WMS":"YVQ/202105/0001",
          "ERP":"ZS-25/05/21/PH05",
          "contractor":{
-            "name":"Kontrahent Laptop",
+            "name":"Kontrahent Tablet",
             "address":{
-               "street":"Głęboka 32",
-               "city":"Lublin",
-               "state":"Lubelskie",
+               "street":"Górnicza 4",
+               "city":"Katowice",
+               "state":"Śląskie",
                "country":"Polska",
-               "postalCode":"20-400"
+               "postalCode":"27-910"
             }
          },
-         "amount":25,
+         "amount":35,
          "delivery":"Brak",
          "scanned":0,
-         "expirationDate":"21.05.2021",
-         "unit":"kg",
-         "measure":2,
-         "image":""
+         "expirationDate":"Brak",
+         "unit":"g",
+         "measure":575,
+         "image":"https://cdn-img.neonet.pl/eyJidWNrZXQiOiJodHRwczovL2Nkbi5uZW9uZXQucGwiLCJrZXkiOiJrYXJ0eS9wbGlraS96ZGplY2lhLzQ3L3RhYmxldC1zYW1zdW5nLXQ5NzAtZ2FsYXh5LXRhYi1zNy13aWZpLTZnYi0xMjhnYi0xMi00LXNtLXQ5NzBuem5hZXVlLW15c3RpYy1icm9uemUtMzUwMjE4ZjFfMDQwODIwMjBfRTVYR0c3WUwuanBnIiwiZWRpdHMiOnsid2VicCI6eyJxdWFsaXR5Ijo4MH0sInJlc2l6ZSI6eyJmaXQiOiJjb250YWluIiwiYmFja2dyb3VuZCI6eyJyIjoyNTUsImciOjI1NSwiYiI6MjU1LCJhbHBoYSI6MX0sIndpZHRoIjo2MDAsImhlaWdodCI6NDUwfX19/tablet-samsung-t970-galaxy-tab-s7-wifi-6gb-128gb-12-4-sm-t970nznaeue-mystic-bronze-350218f1_04082020_E5XGG7YL.jpg"
       },
       {
          "name":"Drukarka",
