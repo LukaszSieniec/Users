@@ -20,7 +20,8 @@
          "scanned":0,
          "expirationDate":"21.05.2021",
          "unit":"kg",
-         "measure":2
+         "measure":2,
+         "image":""
       },
       {
          "name":"Pióro",
@@ -42,7 +43,8 @@
          "scanned":0,
          "expirationDate":"21.05.2021",
          "unit":"kg",
-         "measure":2
+         "measure":2,
+         "image":""
       },
       {
          "name":"Monitor",
@@ -64,7 +66,8 @@
          "scanned":0,
          "expirationDate":"21.05.2021",
          "unit":"kg",
-         "measure":2
+         "measure":2,
+         "image":""
       },
       {
          "name":"Telefon",
@@ -86,7 +89,8 @@
          "scanned":0,
          "expirationDate":"21.05.2021",
          "unit":"kg",
-         "measure":2
+         "measure":2,
+         "image":""
       },
       {
          "name":"Słuchawki",
@@ -108,7 +112,8 @@
          "scanned":0,
          "expirationDate":"21.05.2021",
          "unit":"kg",
-         "measure":2
+         "measure":2,
+         "image":""
       },
       {
          "name":"Tablet",
@@ -130,7 +135,8 @@
          "scanned":0,
          "expirationDate":"21.05.2021",
          "unit":"kg",
-         "measure":2
+         "measure":2,
+         "image":""
       },
       {
          "name":"Drukarka",
@@ -152,7 +158,8 @@
          "scanned":0,
          "expirationDate":"21.05.2021",
          "unit":"kg",
-         "measure":2
+         "measure":2,
+         "image":""
       },
       {
          "name":"Zegarek",
@@ -174,7 +181,8 @@
          "scanned":0,
          "expirationDate":"21.05.2021",
          "unit":"kg",
-         "measure":2
+         "measure":2,
+         "image":""
       },
       {
          "name":"Naszyjnik",
@@ -196,7 +204,8 @@
          "scanned":0,
          "expirationDate":"21.05.2021",
          "unit":"kg",
-         "measure":2
+         "measure":2,
+         "image":""
       },
       {
          "name":"Pierścionek",
@@ -218,7 +227,8 @@
          "scanned":0,
          "expirationDate":"21.05.2021",
          "unit":"kg",
-         "measure":2
+         "measure":2,
+         "image":""
       }
    ]
 }
