@@ -5,19 +5,19 @@
          "barcode":"45678452414",
          "WMS":"YVQ/202105/0001",
          "ERP":"ZS-25/05/21/PH05",
-         "contractor": {
-            "name":"Kontrahent Laptop"
-            "address": {
-              "street": "Głęboka 32",
-              "city": "Lublin",
-              "state": "Lubelskie",
-              "country": "Polska",
-              "postalCode": "20-400",
+         "contractor":{
+            "name":"Kontrahent Laptop",
+            "address":{
+               "street":"Głęboka 32",
+               "city":"Lublin",
+               "state":"Lubelskie",
+               "country":"Polska",
+               "postalCode":"20-400"
             }
          },
-      "amount": 25,
-      "delivery": "Brak",
-      "scanned":0,
+         "amount":25,
+         "delivery":"Brak",
+         "scanned":0
       },
       {
          "name":"Pióro",
