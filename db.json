@@ -47,7 +47,7 @@
          "image":"https://e.allegroimg.com/original/03a7ad/28a01bd2472f9fa913ac2ebb4f2e/PARKER-pioro-wieczne-DUOFOLD-LIMITED-EDITION"
       },
       {
-         "name":"Monitor",
+         "name":"Monitor SAMSUNG Odyssey",
          "barcode":"93243204184",
          "WMS":"YVQ/202105/0001",
          "ERP":"ZS-25/05/21/PH05",
@@ -70,27 +70,27 @@
          "image":"https://www.proshop.pl/Images/915x900/2930705_92eb63b16e3f.jpg"
       },
       {
-         "name":"Telefon",
+         "name":"Smartfon HUAWEI Mate",
          "barcode":"82048192412",
          "WMS":"YVQ/202105/0001",
          "ERP":"ZS-25/05/21/PH05",
          "contractor":{
-            "name":"Kontrahent Laptop",
+            "name":"Kontrahent Smartfon",
             "address":{
-               "street":"Głęboka 32",
-               "city":"Lublin",
-               "state":"Lubelskie",
+               "street":"Pomorska 90",
+               "city":"Warszawa",
+               "state":"Mazowieckie",
                "country":"Polska",
-               "postalCode":"20-400"
+               "postalCode":"40-801"
             }
          },
-         "amount":25,
+         "amount":70,
          "delivery":"Brak",
          "scanned":0,
-         "expirationDate":"21.05.2021",
-         "unit":"kg",
-         "measure":2,
-         "image":""
+         "expirationDate":"Brak",
+         "unit":"g",
+         "measure":212,
+         "image":"https://www.mediaexpert.pl/media/cache/gallery/product/3/495/664/829/bvbeez73/images/26/2615697/Smartfon-HUAWEI-Mate-40-Pro-Czarny-front-tyl.jpg"
       },
       {
          "name":"Słuchawki",
