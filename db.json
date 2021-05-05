@@ -17,7 +17,10 @@
          },
          "amount":25,
          "delivery":"Brak",
-         "scanned":0
+         "scanned":0,
+         "expirationDate":"21.05.2021",
+         "unit":"kg",
+         "measure":2
       },
       {
          "name":"Pióro",
