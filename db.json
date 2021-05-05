@@ -1,7 +1,7 @@
 {
    "items":[
       {
-         "name":"Laptop",
+         "name":"Laptop - Razer Blade Pro",
          "barcode":"45678452414",
          "WMS":"YVQ/202105/0001",
          "ERP":"ZS-25/05/21/PH05",
@@ -18,10 +18,10 @@
          "amount":25,
          "delivery":"Brak",
          "scanned":0,
-         "expirationDate":"21.05.2021",
+         "expirationDate":"Brak",
          "unit":"kg",
-         "measure":2,
-         "image":""
+         "measure":2,71,
+         "image":"https://www.mobimaniak.pl/wp-content/uploads/mobimaniak/2019/10/razer-blad-pro-17-678_678x452.jpg"
       },
       {
          "name":"Pióro",
