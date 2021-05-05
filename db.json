@@ -26,55 +26,199 @@
          "name":"Pióro",
          "barcode":"50183491041",
          "WMS":"YVQ/202105/0001",
-         "ERP":"ZS-25/05/21/PH05"
+         "ERP":"ZS-25/05/21/PH05",
+         "contractor":{
+            "name":"Kontrahent Laptop",
+            "address":{
+               "street":"Głęboka 32",
+               "city":"Lublin",
+               "state":"Lubelskie",
+               "country":"Polska",
+               "postalCode":"20-400"
+            }
+         },
+         "amount":25,
+         "delivery":"Brak",
+         "scanned":0,
+         "expirationDate":"21.05.2021",
+         "unit":"kg",
+         "measure":2
       },
       {
          "name":"Monitor",
          "barcode":"93243204184",
          "WMS":"YVQ/202105/0001",
-         "ERP":"ZS-25/05/21/PH05"
+         "ERP":"ZS-25/05/21/PH05",
+         "contractor":{
+            "name":"Kontrahent Laptop",
+            "address":{
+               "street":"Głęboka 32",
+               "city":"Lublin",
+               "state":"Lubelskie",
+               "country":"Polska",
+               "postalCode":"20-400"
+            }
+         },
+         "amount":25,
+         "delivery":"Brak",
+         "scanned":0,
+         "expirationDate":"21.05.2021",
+         "unit":"kg",
+         "measure":2
       },
       {
          "name":"Telefon",
          "barcode":"82048192412",
          "WMS":"YVQ/202105/0001",
-         "ERP":"ZS-25/05/21/PH05"
+         "ERP":"ZS-25/05/21/PH05",
+         "contractor":{
+            "name":"Kontrahent Laptop",
+            "address":{
+               "street":"Głęboka 32",
+               "city":"Lublin",
+               "state":"Lubelskie",
+               "country":"Polska",
+               "postalCode":"20-400"
+            }
+         },
+         "amount":25,
+         "delivery":"Brak",
+         "scanned":0,
+         "expirationDate":"21.05.2021",
+         "unit":"kg",
+         "measure":2
       },
       {
          "name":"Słuchawki",
          "barcode":"02948192491",
          "WMS":"YVQ/202105/0001",
-         "ERP":"ZS-25/05/21/PH05"
+         "ERP":"ZS-25/05/21/PH05",
+         "contractor":{
+            "name":"Kontrahent Laptop",
+            "address":{
+               "street":"Głęboka 32",
+               "city":"Lublin",
+               "state":"Lubelskie",
+               "country":"Polska",
+               "postalCode":"20-400"
+            }
+         },
+         "amount":25,
+         "delivery":"Brak",
+         "scanned":0,
+         "expirationDate":"21.05.2021",
+         "unit":"kg",
+         "measure":2
       },
       {
          "name":"Tablet",
          "barcode":"39294013510",
          "WMS":"YVQ/202105/0001",
-         "ERP":"ZS-25/05/21/PH05"
+         "ERP":"ZS-25/05/21/PH05",
+         "contractor":{
+            "name":"Kontrahent Laptop",
+            "address":{
+               "street":"Głęboka 32",
+               "city":"Lublin",
+               "state":"Lubelskie",
+               "country":"Polska",
+               "postalCode":"20-400"
+            }
+         },
+         "amount":25,
+         "delivery":"Brak",
+         "scanned":0,
+         "expirationDate":"21.05.2021",
+         "unit":"kg",
+         "measure":2
       },
       {
          "name":"Drukarka",
          "barcode":"10482052561",
          "WMS":"YVQ/202105/0001",
-         "ERP":"ZS-25/05/21/PH05"
+         "ERP":"ZS-25/05/21/PH05",
+         "contractor":{
+            "name":"Kontrahent Laptop",
+            "address":{
+               "street":"Głęboka 32",
+               "city":"Lublin",
+               "state":"Lubelskie",
+               "country":"Polska",
+               "postalCode":"20-400"
+            }
+         },
+         "amount":25,
+         "delivery":"Brak",
+         "scanned":0,
+         "expirationDate":"21.05.2021",
+         "unit":"kg",
+         "measure":2
       },
       {
          "name":"Zegarek",
          "barcode":"20937493827",
          "WMS":"YVQ/202105/0001",
-         "ERP":"ZS-25/05/21/PH05"
+         "ERP":"ZS-25/05/21/PH05",
+         "contractor":{
+            "name":"Kontrahent Laptop",
+            "address":{
+               "street":"Głęboka 32",
+               "city":"Lublin",
+               "state":"Lubelskie",
+               "country":"Polska",
+               "postalCode":"20-400"
+            }
+         },
+         "amount":25,
+         "delivery":"Brak",
+         "scanned":0,
+         "expirationDate":"21.05.2021",
+         "unit":"kg",
+         "measure":2
       },
       {
          "name":"Naszyjnik",
          "barcode":"60395827593",
          "WMS":"YVQ/202105/0001",
-         "ERP":"ZS-25/05/21/PH05"
+         "ERP":"ZS-25/05/21/PH05",
+         "contractor":{
+            "name":"Kontrahent Laptop",
+            "address":{
+               "street":"Głęboka 32",
+               "city":"Lublin",
+               "state":"Lubelskie",
+               "country":"Polska",
+               "postalCode":"20-400"
+            }
+         },
+         "amount":25,
+         "delivery":"Brak",
+         "scanned":0,
+         "expirationDate":"21.05.2021",
+         "unit":"kg",
+         "measure":2
       },
       {
          "name":"Pierścionek",
          "barcode":"50476284825",
          "WMS":"YVQ/202105/0001",
-         "ERP":"ZS-25/05/21/PH05"
+         "ERP":"ZS-25/05/21/PH05",
+         "contractor":{
+            "name":"Kontrahent Laptop",
+            "address":{
+               "street":"Głęboka 32",
+               "city":"Lublin",
+               "state":"Lubelskie",
+               "country":"Polska",
+               "postalCode":"20-400"
+            }
+         },
+         "amount":25,
+         "delivery":"Brak",
+         "scanned":0,
+         "expirationDate":"21.05.2021",
+         "unit":"kg",
+         "measure":2
       }
    ]
 }
