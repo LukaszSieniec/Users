@@ -19,8 +19,10 @@
          "delivery":"Brak",
          "scanned":0,
          "expirationDate":"Brak",
-         "unit":"kg",
-         "measure":2.71,
+         "weight":{
+            "unit":"kg",
+            "measure":2.71
+         },
          "image":"https://www.mobimaniak.pl/wp-content/uploads/mobimaniak/2019/10/razer-blad-pro-17-678_678x452.jpg"
       },
       {
@@ -42,8 +44,10 @@
          "delivery":"Brak",
          "scanned":0,
          "expirationDate":"Brak",
-         "unit":"g",
-         "measure":27,
+         "weight":{
+            "unit":"g",
+            "measure":27
+         },
          "image":"https://e.allegroimg.com/original/03a7ad/28a01bd2472f9fa913ac2ebb4f2e/PARKER-pioro-wieczne-DUOFOLD-LIMITED-EDITION"
       },
       {
@@ -65,8 +69,10 @@
          "delivery":"Brak",
          "scanned":0,
          "expirationDate":"Brak",
-         "unit":"kg",
-         "measure":5.6,
+         "weight":{
+            "unit":"kg",
+            "measure":5.6
+         },
          "image":"https://www.proshop.pl/Images/915x900/2930705_92eb63b16e3f.jpg"
       },
       {
@@ -88,8 +94,10 @@
          "delivery":"Brak",
          "scanned":0,
          "expirationDate":"Brak",
-         "unit":"g",
-         "measure":212,
+         "weight":{
+            "unit":"g",
+            "measure":212
+         },
          "image":"https://www.mediaexpert.pl/media/cache/gallery/product/3/495/664/829/bvbeez73/images/26/2615697/Smartfon-HUAWEI-Mate-40-Pro-Czarny-front-tyl.jpg"
       },
       {
@@ -111,8 +119,10 @@
          "delivery":"Brak",
          "scanned":0,
          "expirationDate":"Brak",
-         "unit":"g",
-         "measure":254,
+         "weight":{
+            "unit":"g",
+            "measure":254
+         },
          "image":"https://stat-m4.ms-online.pl/media/cache/gallery/rc/dg332tgz/images/21/21238430/sony-wh-1000xm4-czarny-1.jpg"
       },
       {
@@ -134,8 +144,10 @@
          "delivery":"Brak",
          "scanned":0,
          "expirationDate":"Brak",
-         "unit":"g",
-         "measure":575,
+         "weight":{
+            "unit":"g",
+            "measure":575
+         },
          "image":"https://cdn-img.neonet.pl/eyJidWNrZXQiOiJodHRwczovL2Nkbi5uZW9uZXQucGwiLCJrZXkiOiJrYXJ0eS9wbGlraS96ZGplY2lhLzQ3L3RhYmxldC1zYW1zdW5nLXQ5NzAtZ2FsYXh5LXRhYi1zNy13aWZpLTZnYi0xMjhnYi0xMi00LXNtLXQ5NzBuem5hZXVlLW15c3RpYy1icm9uemUtMzUwMjE4ZjFfMDQwODIwMjBfRTVYR0c3WUwuanBnIiwiZWRpdHMiOnsid2VicCI6eyJxdWFsaXR5Ijo4MH0sInJlc2l6ZSI6eyJmaXQiOiJjb250YWluIiwiYmFja2dyb3VuZCI6eyJyIjoyNTUsImciOjI1NSwiYiI6MjU1LCJhbHBoYSI6MX0sIndpZHRoIjo2MDAsImhlaWdodCI6NDUwfX19/tablet-samsung-t970-galaxy-tab-s7-wifi-6gb-128gb-12-4-sm-t970nznaeue-mystic-bronze-350218f1_04082020_E5XGG7YL.jpg"
       },
       {
@@ -157,8 +169,10 @@
          "delivery":"Brak",
          "scanned":0,
          "expirationDate":"Brak",
-         "unit":"kg",
-         "measure":32.7,
+         "weight":{
+            "unit":"kg",
+            "measure":32.7
+         },
          "image":"https://wideformat.pl/app/uploads/2020/12/pro-1000-1.jpg"
       },
       {
@@ -180,8 +194,10 @@
          "delivery":"Brak",
          "scanned":0,
          "expirationDate":"Brak",
-         "unit":"g",
-         "measure":89.6,
+         "weight":{
+            "unit":"g",
+            "measure":89.6
+         },
          "image":"https://zegarownia.pl/media/wysiwyg/Produkty/Aerowatch/zegarek-meski-aerowatch-renaissance-big-mechanical-skeleton-50931-no01-right.jpg"
       },
       {
@@ -203,8 +219,10 @@
          "delivery":"Brak",
          "scanned":0,
          "expirationDate":"Brak",
-         "unit":"g",
-         "measure":28,
+         "weight":{
+            "unit":"g",
+            "measure":28
+         },
          "image":"https://ireland.apollo.olxcdn.com/v1/files/dl7b7yvng7gf3-PL/image;s=644x461"
       },
       {
@@ -226,8 +244,10 @@
          "delivery":"Brak",
          "scanned":0,
          "expirationDate":"Brak",
-         "unit":"g",
-         "measure":3.2,
+         "weight":{
+            "unit":"g",
+            "measure":3.2
+         },
          "image":"https://www.twojabizuteria.pl/images/detailed/7/p_522_b_pierscionek_z_brylantem_F.jpg"
       }
    ]
