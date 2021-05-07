@@ -7,10 +7,10 @@
          "WMS":"YVQ/202105/0001",
          "ERP":"ZS-25/05/21/PH05",
          "contractor":{
-            "id":"d153282d-6337-4708-8459-1f60379a80a7",
+            "id":"2d85c140-de7e-4a58-98c9-6e5356c8ee58",
             "name":"Kontrahent Laptop",
             "address":{
-               "id":"d153282d-6337-4708-8459-1f60379a80a7",
+               "id":"98de83f9-a4f7-4d17-8e44-62a6c13ae005",
                "street":"Głęboka 32",
                "city":"Lublin",
                "state":"Lubelskie",
@@ -23,12 +23,12 @@
          "scanned":0,
          "expirationDate":"Brak",
          "weight":{
-            "id":"d153282d-6337-4708-8459-1f60379a80a7",
+            "id":"27f13a2c-0aa5-481c-b1e9-1693163b8068",
             "unit":"kg",
             "value":2.71
          },
          "dimensions":{
-            "id":"d153282d-6337-4708-8459-1f60379a80a7",
+            "id":"c3183dcf-1360-4697-b3ab-ce56746bd474",
             "length":1,
             "depth":2,
             "height":4,
@@ -37,16 +37,16 @@
          "image":"https://www.mobimaniak.pl/wp-content/uploads/mobimaniak/2019/10/razer-blad-pro-17-678_678x452.jpg"
       },
       {
-         "id":"d153282d-6337-4708-8459-1f60379a80a7",
+         "id":"b56ade66-dfe2-496c-a9f1-d1e42ebec895",
          "name":"Pióro wieczne Parker - Duofold Limited Edition",
          "barcode":"50183491041",
          "WMS":"YVQ/202105/0001",
          "ERP":"ZS-25/05/21/PH05",
          "contractor":{
-            "id":"d153282d-6337-4708-8459-1f60379a80a7",
+            "id":"4a87937f-2839-4154-bc99-c44fea43dd71",
             "name":"Kontrahent Pióro",
             "address":{
-               "id":"d153282d-6337-4708-8459-1f60379a80a7",
+               "id":"c728810f-ebdc-4646-b5b5-c33beb1a7446",
                "street":"Mickiewicza 12",
                "city":"Kraków",
                "state":"Małopolskie",
@@ -59,12 +59,12 @@
          "scanned":0,
          "expirationDate":"Brak",
          "weight":{
-            "id":"d153282d-6337-4708-8459-1f60379a80a7",
+            "id":"25f2a323-4989-4239-bde8-b7ff17af4c37",
             "unit":"g",
             "value":27
          },
          "dimensions":{
-            "id":"d153282d-6337-4708-8459-1f60379a80a7",
+            "id":"36322baa-2206-4c73-ae8e-ba5cd4947c8a",
             "length":3,
             "depth":10,
             "height":20,
@@ -73,16 +73,16 @@
          "image":"https://e.allegroimg.com/original/03a7ad/28a01bd2472f9fa913ac2ebb4f2e/PARKER-pioro-wieczne-DUOFOLD-LIMITED-EDITION"
       },
       {
-         "id":"d153282d-6337-4708-8459-1f60379a80a7",
+         "id":"6258885a-9e02-436e-aed2-465990ab4da6",
          "name":"Monitor SAMSUNG Odyssey",
          "barcode":"93243204184",
          "WMS":"YVQ/202105/0001",
          "ERP":"ZS-25/05/21/PH05",
          "contractor":{
-            "id":"d153282d-6337-4708-8459-1f60379a80a7",
+            "id":"9a802a8c-ebaa-4928-906f-18dce452ec76",
             "name":"Kontrahent Monitor",
             "address":{
-               "id":"d153282d-6337-4708-8459-1f60379a80a7",
+               "id":"3b52254c-9495-4cd0-af15-01510e73bb3c",
                "street":"Długa 4",
                "city":"Lublin",
                "state":"Lubelskie",
@@ -95,12 +95,12 @@
          "scanned":0,
          "expirationDate":"Brak",
          "weight":{
-            "id":"d153282d-6337-4708-8459-1f60379a80a7",
+            "id":"4ffe2976-0eb6-48d2-8ec4-ecc406588019",
             "unit":"kg",
             "value":5.6
          },
          "dimensions":{
-            "id":"d153282d-6337-4708-8459-1f60379a80a7",
+            "id":"1e8df77a-b517-47d2-be14-c0586611e45c",
             "length":17,
             "depth":18,
             "height":25,
@@ -109,16 +109,16 @@
          "image":"https://www.proshop.pl/Images/915x900/2930705_92eb63b16e3f.jpg"
       },
       {
-         "id":"d153282d-6337-4708-8459-1f60379a80a7",
+         "id":"aca3b031-a726-4033-8c60-3a21789eb17c",
          "name":"Smartfon HUAWEI Mate",
          "barcode":"82048192412",
          "WMS":"YVQ/202105/0001",
          "ERP":"ZS-25/05/21/PH05",
          "contractor":{
-            "id":"d153282d-6337-4708-8459-1f60379a80a7",
+            "id":"54f0d8d3-0aba-4586-b5b0-3f6b19812dfd",
             "name":"Kontrahent Smartfon",
             "address":{
-               "id":"d153282d-6337-4708-8459-1f60379a80a7",
+               "id":"392a5848-807a-43a0-8955-611b06dfda46",
                "street":"Pomorska 90",
                "city":"Warszawa",
                "state":"Mazowieckie",
@@ -131,12 +131,12 @@
          "scanned":0,
          "expirationDate":"Brak",
          "weight":{
-            "id":"d153282d-6337-4708-8459-1f60379a80a7",
+            "id":"3e71e00a-9d9c-449f-9808-b4b4cdccb400",
             "unit":"g",
             "value":212
          },
          "dimensions":{
-            "id":"d153282d-6337-4708-8459-1f60379a80a7",
+            "id":"2326524a-1292-4d8c-b17a-145468c601b8",
             "length":18,
             "depth":9,
             "height":29,
@@ -145,16 +145,16 @@
          "image":"https://www.mediaexpert.pl/media/cache/gallery/product/3/495/664/829/bvbeez73/images/26/2615697/Smartfon-HUAWEI-Mate-40-Pro-Czarny-front-tyl.jpg"
       },
       {
-         "id":"d153282d-6337-4708-8459-1f60379a80a7",
+         "id":"df4e7fc6-a452-4c8b-9661-69c58f50ea1c",
          "name":"Słuchawki SONY",
          "barcode":"02948192491",
          "WMS":"YVQ/202105/0001",
          "ERP":"ZS-25/05/21/PH05",
          "contractor":{
-            "id":"d153282d-6337-4708-8459-1f60379a80a7",
+            "id":"8eb07bf7-0357-414e-8fd6-8e5e79288983",
             "name":"Kontrahent Słuchawki",
             "address":{
-               "id":"d153282d-6337-4708-8459-1f60379a80a7",
+               "id":"882a9970-0910-40d9-bd03-ba68793d0268",
                "street":"Pogodna 74",
                "city":"Poznań",
                "state":"Wielkopolskie",
@@ -167,12 +167,12 @@
          "scanned":0,
          "expirationDate":"Brak",
          "weight":{
-            "id":"d153282d-6337-4708-8459-1f60379a80a7",
+            "id":"98d9a2ff-fcfe-47b0-9a2b-797286e13714",
             "unit":"g",
             "value":254
          },
          "dimensions":{
-            "id":"d153282d-6337-4708-8459-1f60379a80a7",
+            "id":"01b39924-ad63-437b-a8f7-275d55eb35c5",
             "length":30,
             "depth":0.67,
             "height":11,
@@ -181,16 +181,16 @@
          "image":"https://stat-m4.ms-online.pl/media/cache/gallery/rc/dg332tgz/images/21/21238430/sony-wh-1000xm4-czarny-1.jpg"
       },
       {
-         "id":"d153282d-6337-4708-8459-1f60379a80a7",
+         "id":"d40132ba-a4da-4ce9-b9d6-d11ecb942e7c",
          "name":"Tablet SAMSUNG T976 Galaxy Tab S7",
          "barcode":"39294013510",
          "WMS":"YVQ/202105/0001",
          "ERP":"ZS-25/05/21/PH05",
          "contractor":{
-            "id":"d153282d-6337-4708-8459-1f60379a80a7",
+            "id":"7f536ebf-a579-43ba-8403-f7617f4a7e55",
             "name":"Kontrahent Tablet",
             "address":{
-               "id":"d153282d-6337-4708-8459-1f60379a80a7",
+               "id":"cd143f36-e20d-4279-8bb4-ab5338747929",
                "street":"Górnicza 4",
                "city":"Katowice",
                "state":"Śląskie",
@@ -203,12 +203,12 @@
          "scanned":0,
          "expirationDate":"Brak",
          "weight":{
-            "id":"d153282d-6337-4708-8459-1f60379a80a7",
+            "id":"16156247-002e-4066-992f-ac140426c0a9",
             "unit":"g",
             "value":575
          },
          "dimensions":{
-            "id":"d153282d-6337-4708-8459-1f60379a80a7",
+            "id":"4fb408cd-0402-4c11-8174-b14038f440b5",
             "length":10,
             "depth":22,
             "height":0.4,
@@ -217,16 +217,16 @@
          "image":"https://cdn-img.neonet.pl/eyJidWNrZXQiOiJodHRwczovL2Nkbi5uZW9uZXQucGwiLCJrZXkiOiJrYXJ0eS9wbGlraS96ZGplY2lhLzQ3L3RhYmxldC1zYW1zdW5nLXQ5NzAtZ2FsYXh5LXRhYi1zNy13aWZpLTZnYi0xMjhnYi0xMi00LXNtLXQ5NzBuem5hZXVlLW15c3RpYy1icm9uemUtMzUwMjE4ZjFfMDQwODIwMjBfRTVYR0c3WUwuanBnIiwiZWRpdHMiOnsid2VicCI6eyJxdWFsaXR5Ijo4MH0sInJlc2l6ZSI6eyJmaXQiOiJjb250YWluIiwiYmFja2dyb3VuZCI6eyJyIjoyNTUsImciOjI1NSwiYiI6MjU1LCJhbHBoYSI6MX0sIndpZHRoIjo2MDAsImhlaWdodCI6NDUwfX19/tablet-samsung-t970-galaxy-tab-s7-wifi-6gb-128gb-12-4-sm-t970nznaeue-mystic-bronze-350218f1_04082020_E5XGG7YL.jpg"
       },
       {
-         "id":"d153282d-6337-4708-8459-1f60379a80a7",
+         "id":"de363cad-01fa-4ac1-9bb2-eb354f16fa99",
          "name":"Drukarka - Ploter Canon imagePROGRAF PRO-1000",
          "barcode":"10482052561",
          "WMS":"YVQ/202105/0001",
          "ERP":"ZS-25/05/21/PH05",
          "contractor":{
-            "id":"d153282d-6337-4708-8459-1f60379a80a7",
+            "id":"86ee38eb-5491-4ba5-ba6a-a9cff4a941f5",
             "name":"Kontrahent Drukarka",
             "address":{
-               "id":"d153282d-6337-4708-8459-1f60379a80a7",
+               "id":"91cc624e-3768-4538-bd61-0ba5171ef372",
                "street":"Polna 15",
                "city":"Gdańsk",
                "state":"Pomorskie",
@@ -239,12 +239,12 @@
          "scanned":0,
          "expirationDate":"Brak",
          "weight":{
-            "id":"d153282d-6337-4708-8459-1f60379a80a7",
+            "id":"cff0bd95-7b07-44bd-85e3-e48ecd1688ff",
             "unit":"kg",
             "value":32.7
          },
          "dimensions":{
-            "id":"d153282d-6337-4708-8459-1f60379a80a7",
+            "id":"2ca8f6ad-3a4b-4209-9fc7-5632130f4268",
             "length":30,
             "depth":21,
             "height":40.3,
@@ -253,16 +253,16 @@
          "image":"https://wideformat.pl/app/uploads/2020/12/pro-1000-1.jpg"
       },
       {
-         "id":"d153282d-6337-4708-8459-1f60379a80a7",
+         "id":"e6c4ba6f-8d45-4c5d-9eab-91a8bc6b29e8",
          "name":"Zegarek męski Aerowatch",
          "barcode":"20937493827",
          "WMS":"YVQ/202105/0001",
          "ERP":"ZS-25/05/21/PH05",
          "contractor":{
-            "id":"d153282d-6337-4708-8459-1f60379a80a7",
+            "id":"e35a1bfb-260e-4e01-b6fc-16d84343c37d",
             "name":"Kontrahent Zegarek",
             "address":{
-               "id":"d153282d-6337-4708-8459-1f60379a80a7",
+               "id":"541fb19c-73f7-4cdb-a713-5a80ad32ad16",
                "street":"Majowa 7",
                "city":"Wrocław",
                "state":"Dolnośląskie",
@@ -275,12 +275,12 @@
          "scanned":0,
          "expirationDate":"Brak",
          "weight":{
-            "id":"d153282d-6337-4708-8459-1f60379a80a7",
+            "id":"54527850-8722-495a-a32c-aeb3a3c27f69",
             "unit":"g",
             "value":89.6
          },
          "dimensions":{
-            "id":"d153282d-6337-4708-8459-1f60379a80a7",
+            "id":"7621fb7f-a106-48f7-ab35-5e87e6af7890",
             "length":18,
             "depth":26,
             "height":13,
@@ -289,16 +289,16 @@
          "image":"https://zegarownia.pl/media/wysiwyg/Produkty/Aerowatch/zegarek-meski-aerowatch-renaissance-big-mechanical-skeleton-50931-no01-right.jpg"
       },
       {
-         "id":"d153282d-6337-4708-8459-1f60379a80a7",
+         "id":"5870798f-7863-4add-80d8-92a32e3fe445",
          "name":"Sygnet",
          "barcode":"60395827593",
          "WMS":"YVQ/202105/0001",
          "ERP":"ZS-25/05/21/PH05",
          "contractor":{
-            "id":"d153282d-6337-4708-8459-1f60379a80a7",
+            "id":"c6531bba-8b25-44d0-91f2-a99bf294ee56",
             "name":"Kontrahent Sygnet",
             "address":{
-               "id":"d153282d-6337-4708-8459-1f60379a80a7",
+               "id":"a6d0a2dd-b96a-49fa-a69b-818dfbd2518e",
                "street":"Różana 81",
                "city":"Kraków",
                "state":"Małopolska",
@@ -311,12 +311,12 @@
          "scanned":0,
          "expirationDate":"Brak",
          "weight":{
-            "id":"d153282d-6337-4708-8459-1f60379a80a7",
+            "id":"41978ae9-9bcc-4fae-b22d-e02ae77bc7bc",
             "unit":"g",
             "value":28
          },
          "dimensions":{
-            "id":"d153282d-6337-4708-8459-1f60379a80a7",
+            "id":"c8ac9478-a21d-40dd-af98-0c08cd162a93",
             "length":29,
             "depth":2.45,
             "height":4.91,
@@ -325,16 +325,16 @@
          "image":"https://ireland.apollo.olxcdn.com/v1/files/dl7b7yvng7gf3-PL/image;s=644x461"
       },
       {
-         "id":"d153282d-6337-4708-8459-1f60379a80a7",
+         "id":"9e05baa3-7201-4f3e-93a1-55c0d8441279",
          "name":"Pierścionek z brylantami",
          "barcode":"50476284825",
          "WMS":"YVQ/202105/0001",
          "ERP":"ZS-25/05/21/PH05",
          "contractor":{
-            "id":"d153282d-6337-4708-8459-1f60379a80a7",
+            "id":"321bd689-fe89-400c-a106-41d45265cc93",
             "name":"Kontrahent Pierścionek",
             "address":{
-               "id":"d153282d-6337-4708-8459-1f60379a80a7",
+               "id":"1900869f-96fb-4d67-bc71-bfa59e25ff6c",
                "street":"Nowogrodzka 74",
                "city":"Lublin",
                "state":"Lubelskie",
@@ -347,12 +347,12 @@
          "scanned":0,
          "expirationDate":"Brak",
          "weight":{
-            "id":"d153282d-6337-4708-8459-1f60379a80a7",
+            "id":"c4c82a4c-581f-4555-8918-364aff3e6ffb",
             "unit":"g",
             "value":3.2
          },
          "dimensions":{
-            "id":"d153282d-6337-4708-8459-1f60379a80a7",
+            "id":"23e0b355-2545-46bd-a513-c89fca96ba59",
             "length":0,
             "depth":0,
             "height":0,
