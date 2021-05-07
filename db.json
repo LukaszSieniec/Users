@@ -23,6 +23,12 @@
             "unit":"kg",
             "value":2.71
          },
+         "dimensions":{
+            "length":1,
+            "depth":2,
+            "height":4,
+            "unit":"cm"
+         },
          "image":"https://www.mobimaniak.pl/wp-content/uploads/mobimaniak/2019/10/razer-blad-pro-17-678_678x452.jpg"
       },
       {
@@ -47,6 +53,12 @@
          "weight":{
             "unit":"g",
             "value":27
+         },
+         "dimensions":{
+            "length":3,
+            "depth":10,
+            "height":20,
+            "unit":"cm"
          },
          "image":"https://e.allegroimg.com/original/03a7ad/28a01bd2472f9fa913ac2ebb4f2e/PARKER-pioro-wieczne-DUOFOLD-LIMITED-EDITION"
       },
@@ -73,6 +85,12 @@
             "unit":"kg",
             "value":5.6
          },
+         "dimensions":{
+            "length":17,
+            "depth":18,
+            "height":25,
+            "unit":"cm"
+         },
          "image":"https://www.proshop.pl/Images/915x900/2930705_92eb63b16e3f.jpg"
       },
       {
@@ -97,6 +115,12 @@
          "weight":{
             "unit":"g",
             "value":212
+         },
+         "dimensions":{
+            "length":18,
+            "depth":9,
+            "height":29,
+            "unit":"cm"
          },
          "image":"https://www.mediaexpert.pl/media/cache/gallery/product/3/495/664/829/bvbeez73/images/26/2615697/Smartfon-HUAWEI-Mate-40-Pro-Czarny-front-tyl.jpg"
       },
@@ -123,6 +147,12 @@
             "unit":"g",
             "value":254
          },
+         "dimensions":{
+            "length":30,
+            "depth":0.67,
+            "height":11,
+            "unit":"cm"
+         },
          "image":"https://stat-m4.ms-online.pl/media/cache/gallery/rc/dg332tgz/images/21/21238430/sony-wh-1000xm4-czarny-1.jpg"
       },
       {
@@ -147,6 +177,12 @@
          "weight":{
             "unit":"g",
             "value":575
+         },
+         "dimensions":{
+            "length":10,
+            "depth":22,
+            "height":0.4,
+            "unit":"cm"
          },
          "image":"https://cdn-img.neonet.pl/eyJidWNrZXQiOiJodHRwczovL2Nkbi5uZW9uZXQucGwiLCJrZXkiOiJrYXJ0eS9wbGlraS96ZGplY2lhLzQ3L3RhYmxldC1zYW1zdW5nLXQ5NzAtZ2FsYXh5LXRhYi1zNy13aWZpLTZnYi0xMjhnYi0xMi00LXNtLXQ5NzBuem5hZXVlLW15c3RpYy1icm9uemUtMzUwMjE4ZjFfMDQwODIwMjBfRTVYR0c3WUwuanBnIiwiZWRpdHMiOnsid2VicCI6eyJxdWFsaXR5Ijo4MH0sInJlc2l6ZSI6eyJmaXQiOiJjb250YWluIiwiYmFja2dyb3VuZCI6eyJyIjoyNTUsImciOjI1NSwiYiI6MjU1LCJhbHBoYSI6MX0sIndpZHRoIjo2MDAsImhlaWdodCI6NDUwfX19/tablet-samsung-t970-galaxy-tab-s7-wifi-6gb-128gb-12-4-sm-t970nznaeue-mystic-bronze-350218f1_04082020_E5XGG7YL.jpg"
       },
@@ -173,6 +209,12 @@
             "unit":"kg",
             "value":32.7
          },
+         "dimensions":{
+            "length":30,
+            "depth":21,
+            "height":40.3,
+            "unit":"cm"
+         },
          "image":"https://wideformat.pl/app/uploads/2020/12/pro-1000-1.jpg"
       },
       {
@@ -197,6 +239,12 @@
          "weight":{
             "unit":"g",
             "value":89.6
+         },
+         "dimensions":{
+            "length":18,
+            "depth":26,
+            "height":13,
+            "unit":"cm"
          },
          "image":"https://zegarownia.pl/media/wysiwyg/Produkty/Aerowatch/zegarek-meski-aerowatch-renaissance-big-mechanical-skeleton-50931-no01-right.jpg"
       },
@@ -223,6 +271,12 @@
             "unit":"g",
             "value":28
          },
+         "dimensions":{
+            "length":29,
+            "depth":2.45,
+            "height":4.91,
+            "unit":"cm"
+         },
          "image":"https://ireland.apollo.olxcdn.com/v1/files/dl7b7yvng7gf3-PL/image;s=644x461"
       },
       {
@@ -247,6 +301,12 @@
          "weight":{
             "unit":"g",
             "value":3.2
+         },
+         "dimensions":{
+            "length":0,
+            "depth":0,
+            "height":0,
+            "unit":"cm"
          },
          "image":"https://www.twojabizuteria.pl/images/detailed/7/p_522_b_pierscionek_z_brylantem_F.jpg"
       }
