@@ -287,42 +287,6 @@
             "unit":"cm"
          },
          "image":"https://zegarownia.pl/media/wysiwyg/Produkty/Aerowatch/zegarek-meski-aerowatch-renaissance-big-mechanical-skeleton-50931-no01-right.jpg"
-      },
-      {
-         "id":"5870798f-7863-4add-80d8-92a32e3fe445",
-         "name":"Sygnet",
-         "barcode":"60395827593",
-         "WMS":"YVQ/202105/0001",
-         "ERP":"ZS-25/05/21/PH05",
-         "contractor":{
-            "id":"c6531bba-8b25-44d0-91f2-a99bf294ee56",
-            "name":"Kontrahent Sygnet",
-            "address":{
-               "id":"a6d0a2dd-b96a-49fa-a69b-818dfbd2518e",
-               "street":"Różana 81",
-               "city":"Kraków",
-               "state":"Małopolska",
-               "country":"Polska",
-               "postalCode":"20-400"
-            }
-         },
-         "amount":7,
-         "delivery":"Brak",
-         "scanned":0,
-         "expirationDate":"Brak",
-         "weight":{
-            "id":"41978ae9-9bcc-4fae-b22d-e02ae77bc7bc",
-            "unit":"g",
-            "value":28
-         },
-         "dimensions":{
-            "id":"c8ac9478-a21d-40dd-af98-0c08cd162a93",
-            "length":29,
-            "depth":2.45,
-            "height":4.91,
-            "unit":"cm"
-         },
-         "image":"https://ireland.apollo.olxcdn.com/v1/files/dl7b7yvng7gf3-PL/image;s=644x461"
-      },
+      }
    ]
 }
