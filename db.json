@@ -251,42 +251,6 @@
             "unit":"cm"
          },
          "image":"https://wideformat.pl/app/uploads/2020/12/pro-1000-1.jpg"
-      },
-      {
-         "id":"e6c4ba6f-8d45-4c5d-9eab-91a8bc6b29e8",
-         "name":"Zegarek męski Aerowatch",
-         "barcode":"20937493827",
-         "WMS":"YVQ/202105/0001",
-         "ERP":"ZS-25/05/21/PH05",
-         "contractor":{
-            "id":"e35a1bfb-260e-4e01-b6fc-16d84343c37d",
-            "name":"Kontrahent Zegarek",
-            "address":{
-               "id":"541fb19c-73f7-4cdb-a713-5a80ad32ad16",
-               "street":"Majowa 7",
-               "city":"Wrocław",
-               "state":"Dolnośląskie",
-               "country":"Polska",
-               "postalCode":"21-320"
-            }
-         },
-         "amount":5,
-         "delivery":"Brak",
-         "scanned":0,
-         "expirationDate":"Brak",
-         "weight":{
-            "id":"54527850-8722-495a-a32c-aeb3a3c27f69",
-            "unit":"g",
-            "value":89.6
-         },
-         "dimensions":{
-            "id":"7621fb7f-a106-48f7-ab35-5e87e6af7890",
-            "length":18,
-            "depth":26,
-            "height":13,
-            "unit":"cm"
-         },
-         "image":"https://zegarownia.pl/media/wysiwyg/Produkty/Aerowatch/zegarek-meski-aerowatch-renaissance-big-mechanical-skeleton-50931-no01-right.jpg"
       }
    ]
 }
