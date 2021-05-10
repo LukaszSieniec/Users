@@ -217,42 +217,6 @@
          "image":"https://cdn-img.neonet.pl/eyJidWNrZXQiOiJodHRwczovL2Nkbi5uZW9uZXQucGwiLCJrZXkiOiJrYXJ0eS9wbGlraS96ZGplY2lhLzQ3L3RhYmxldC1zYW1zdW5nLXQ5NzAtZ2FsYXh5LXRhYi1zNy13aWZpLTZnYi0xMjhnYi0xMi00LXNtLXQ5NzBuem5hZXVlLW15c3RpYy1icm9uemUtMzUwMjE4ZjFfMDQwODIwMjBfRTVYR0c3WUwuanBnIiwiZWRpdHMiOnsid2VicCI6eyJxdWFsaXR5Ijo4MH0sInJlc2l6ZSI6eyJmaXQiOiJjb250YWluIiwiYmFja2dyb3VuZCI6eyJyIjoyNTUsImciOjI1NSwiYiI6MjU1LCJhbHBoYSI6MX0sIndpZHRoIjo2MDAsImhlaWdodCI6NDUwfX19/tablet-samsung-t970-galaxy-tab-s7-wifi-6gb-128gb-12-4-sm-t970nznaeue-mystic-bronze-350218f1_04082020_E5XGG7YL.jpg"
       },
       {
-         "id":"de363cad-01fa-4ac1-9bb2-eb354f16fa99",
-         "name":"Drukarka - Ploter Canon imagePROGRAF PRO-1000",
-         "barcode":"10482052561",
-         "WMS":"YVQ/202105/0001",
-         "ERP":"ZS-25/05/21/PH05",
-         "contractor":{
-            "id":"86ee38eb-5491-4ba5-ba6a-a9cff4a941f5",
-            "name":"Kontrahent Drukarka",
-            "address":{
-               "id":"91cc624e-3768-4538-bd61-0ba5171ef372",
-               "street":"Polna 15",
-               "city":"Gdańsk",
-               "state":"Pomorskie",
-               "country":"Polska",
-               "postalCode":"40-100"
-            }
-         },
-         "amount":60,
-         "delivery":"Brak",
-         "scanned":0,
-         "expirationDate":"Brak",
-         "weight":{
-            "id":"cff0bd95-7b07-44bd-85e3-e48ecd1688ff",
-            "unit":"kg",
-            "value":32.7
-         },
-         "dimensions":{
-            "id":"2ca8f6ad-3a4b-4209-9fc7-5632130f4268",
-            "length":30,
-            "depth":21,
-            "height":40.3,
-            "unit":"cm"
-         },
-         "image":"https://wideformat.pl/app/uploads/2020/12/pro-1000-1.jpg"
-      },
-      {
          "id":"e6c4ba6f-8d45-4c5d-9eab-91a8bc6b29e8",
          "name":"Zegarek męski Aerowatch",
          "barcode":"20937493827",
