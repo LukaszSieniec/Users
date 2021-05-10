@@ -288,41 +288,5 @@
          },
          "image":"https://zegarownia.pl/media/wysiwyg/Produkty/Aerowatch/zegarek-meski-aerowatch-renaissance-big-mechanical-skeleton-50931-no01-right.jpg"
       },
-      {
-         "id":"9e05baa3-7201-4f3e-93a1-55c0d8441279",
-         "name":"Pierścionek z brylantami",
-         "barcode":"50476284825",
-         "WMS":"YVQ/202105/0001",
-         "ERP":"ZS-25/05/21/PH05",
-         "contractor":{
-            "id":"321bd689-fe89-400c-a106-41d45265cc93",
-            "name":"Kontrahent Pierścionek",
-            "address":{
-               "id":"1900869f-96fb-4d67-bc71-bfa59e25ff6c",
-               "street":"Nowogrodzka 74",
-               "city":"Lublin",
-               "state":"Lubelskie",
-               "country":"Polska",
-               "postalCode":"20-400"
-            }
-         },
-         "amount":15,
-         "delivery":"Brak",
-         "scanned":0,
-         "expirationDate":"Brak",
-         "weight":{
-            "id":"c4c82a4c-581f-4555-8918-364aff3e6ffb",
-            "unit":"g",
-            "value":3.2
-         },
-         "dimensions":{
-            "id":"23e0b355-2545-46bd-a513-c89fca96ba59",
-            "length":0,
-            "depth":0,
-            "height":0,
-            "unit":"cm"
-         },
-         "image":"https://www.twojabizuteria.pl/images/detailed/7/p_522_b_pierscionek_z_brylantem_F.jpg"
-      }
    ]
 }
