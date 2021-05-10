@@ -181,42 +181,6 @@
          "image":"https://stat-m4.ms-online.pl/media/cache/gallery/rc/dg332tgz/images/21/21238430/sony-wh-1000xm4-czarny-1.jpg"
       },
       {
-         "id":"d40132ba-a4da-4ce9-b9d6-d11ecb942e7c",
-         "name":"Tablet SAMSUNG T976 Galaxy Tab S7",
-         "barcode":"39294013510",
-         "WMS":"YVQ/202105/0001",
-         "ERP":"ZS-25/05/21/PH05",
-         "contractor":{
-            "id":"7f536ebf-a579-43ba-8403-f7617f4a7e55",
-            "name":"Kontrahent Tablet",
-            "address":{
-               "id":"cd143f36-e20d-4279-8bb4-ab5338747929",
-               "street":"Górnicza 4",
-               "city":"Katowice",
-               "state":"Śląskie",
-               "country":"Polska",
-               "postalCode":"27-910"
-            }
-         },
-         "amount":35,
-         "delivery":"Brak",
-         "scanned":0,
-         "expirationDate":"Brak",
-         "weight":{
-            "id":"16156247-002e-4066-992f-ac140426c0a9",
-            "unit":"g",
-            "value":575
-         },
-         "dimensions":{
-            "id":"4fb408cd-0402-4c11-8174-b14038f440b5",
-            "length":10,
-            "depth":22,
-            "height":0.4,
-            "unit":"cm"
-         },
-         "image":"https://www.google.pl/search?q=Tablet+SAMSUNG+T976+Galaxy+Tab+S7&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiv19mKlb_wAhUo-yoKHdgOAkYQ_AUoAnoECAEQBA&biw=1707&bih=813&dpr=1.13"
-      },
-      {
          "id":"de363cad-01fa-4ac1-9bb2-eb354f16fa99",
          "name":"Drukarka - Ploter Canon imagePROGRAF PRO-1000",
          "barcode":"10482052561",
