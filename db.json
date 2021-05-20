@@ -3,7 +3,7 @@
       {
          "id":"d153282d-6337-4708-8459-1f60379a80a7",
          "name":"Laptop - Razer Blade Pro",
-         "barcode":"45678452414",
+         "barcode":"1",
          "WMS":"YVQ/202105/0001",
          "ERP":"ZS-25/05/21/PH05",
          "contractor":{
@@ -39,7 +39,7 @@
       {
          "id":"b56ade66-dfe2-496c-a9f1-d1e42ebec895",
          "name":"Pióro wieczne Parker - Duofold Limited Edition",
-         "barcode":"50183491041",
+         "barcode":"2",
          "WMS":"YVQ/202105/0001",
          "ERP":"ZS-25/05/21/PH05",
          "contractor":{
@@ -75,7 +75,7 @@
       {
          "id":"6258885a-9e02-436e-aed2-465990ab4da6",
          "name":"Monitor SAMSUNG Odyssey",
-         "barcode":"93243204184",
+         "barcode":"3",
          "WMS":"YVQ/202105/0001",
          "ERP":"ZS-25/05/21/PH05",
          "contractor":{
