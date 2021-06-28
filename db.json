@@ -18,7 +18,7 @@
                "postalCode":"20-400"
             }
          },
-         "amount":25,
+         "amount":1000,
          "delivery":"Brak",
          "scanned":0,
          "expirationDate":"Brak",
@@ -54,7 +54,7 @@
                "postalCode":"30-670"
             }
          },
-         "amount":10,
+         "amount":1500,
          "delivery":"Brak",
          "scanned":0,
          "expirationDate":"Brak",
@@ -90,7 +90,7 @@
                "postalCode":"20-370"
             }
          },
-         "amount":25,
+         "amount":1800,
          "delivery":"Brak",
          "scanned":0,
          "expirationDate":"Brak",
